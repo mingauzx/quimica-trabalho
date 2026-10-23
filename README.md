@@ -18,8 +18,8 @@ Abra `index.html` no navegador. Não é necessário instalar dependências, Node
 ## O que ainda falta para a entrega
 
 1. Gravar os **dois vídeos autorais** exigidos pela professora: um experimento seguro e uma observação cotidiana que trate do outro tema, e incorporá-los no local dos cartões de vídeo.
-2. Substituir `inserir nomes dos integrantes` pelos nomes dos membros do grupo.
-3. Conferir as referências bibliográficas com as edições efetivamente consultadas e adicionar os dados bibliográficos completos.
+2. Conferir os créditos da equipe já preenchidos no rodapé.
+3. Conferir as referências bibliográficas com as edições efetivamente consultadas pelo grupo. As fontes aparecem após cada tema e questão; os dados das edições foram completados.
 4. Revisar com a professora os resumos das questões ENEM e registrar os créditos das imagens/vídeos incluídos posteriormente.
 5. Entregar o URL público no Moodle até **01/12/2026** (conforme instruções fornecidas).
 
@@ -39,3 +39,13 @@ A Vercel publicará novamente o site automaticamente a cada commit no GitHub.
 - Simulador de escala pH: https://phet.colorado.edu/sims/html/ph-scale/latest/ph-scale_all.html?locale=pt_BR
 
 Os índices exibidos no laboratório de cinética são **meramente ilustrativos**, não dados de laboratório. Para a equação pH + pOH = 14, foi adotada a temperatura de **25 ºC**.
+
+## Equipe
+
+Miguel Angelo; Enzo Kobs; Yara Insaurralde; Rayane Leticia; Pedro Joaquim; Jennifer Araujo.
+
+Crédito do site: by Miguel. Ícone da aba: símbolo de química do site.
+
+## Conferência com o PDF
+
+Os três temas, os exemplos de pH, os simuladores, as ilustrações, as quatro questões comentadas e as referências bibliográficas estão presentes. Os dois vídeos autorais ainda precisam ser incorporados. O grupo também deve preparar a capa do relatório com todos os integrantes, informar a responsabilidade de cada aluno e enviar o link no Moodle e no grupo indicado no PDF até 01/12/2026.
