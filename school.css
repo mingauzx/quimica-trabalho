@@ -28,3 +28,6 @@ body{background:var(--bg);color:var(--text)}h1,h2,h3,h4,.brand,.brand-light,.top
 .molecule-pill,.response-box,.ph-tip,.q-option,.q-answer{background:#2c3b30;border-color:var(--border);color:var(--text)}.molecule-pill.highlight{background:#40553d}.reaction-arrows,.response-box p,.ph-readout strong,.q-option b,.q-option span{color:var(--text)}.perturb{color:var(--text);background:#2b3830;border-color:#475c48}.perturb.active{background:#96ba86;color:#18231c}.note,.note.important{background:transparent;border-color:var(--border)}
 .ph-readout #ph-value,.ph-readout #ph-type{color:#b2d3a5!important}.substance{background:transparent;color:var(--text);border-color:var(--border)}.substance b,.substance strong{color:var(--text)}.substance-emoji,.phet-icon,.video-placeholder-icon,.video-two .video-placeholder-icon{background:#2c3b30;color:#add39f;border-color:var(--border)}.phet-strip{background:var(--surface);border-color:var(--border)}.phet-strip h3{color:var(--text)}
 .video-display,.video-two{background:#2b3830}.video-center strong{color:var(--text)}.video-category,.video-card:nth-child(2) .video-category{color:#add39f}.q-tab{background:var(--surface);color:var(--text);border-color:var(--border)}.content-sources,.question-source{border-color:var(--border)}
+
+/* Logo verde original. */
+.brand-mark{background:#b7ef65;color:#08121a}
