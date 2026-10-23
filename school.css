@@ -31,3 +31,6 @@ body{background:var(--bg);color:var(--text)}h1,h2,h3,h4,.brand,.brand-light,.top
 
 /* Logo verde original. */
 .brand-mark{background:#b7ef65;color:#08121a}
+
+/* Cartões de vídeo: área inteira e textos sem sobreposição. */
+.video-display,.video-display.video-two{width:100%;height:220px;min-height:220px;aspect-ratio:auto;display:flex;align-items:center;justify-content:center;margin:0;position:relative;padding:24px 18px 48px}.video-center{width:100%;min-width:0;gap:10px}.video-center strong{margin:0;line-height:1.4}.video-center small{display:none}.video-placeholder-icon{margin:0 0 8px}.video-time{position:absolute;left:18px;right:18px;bottom:14px;line-height:1.5;font-size:10px;letter-spacing:.4px}.video-description{padding:24px}.video-description p{margin-bottom:0}.video-note{display:none}@media(max-width:550px){.video-display,.video-display.video-two{height:200px;min-height:200px}.video-description{padding:20px}}
